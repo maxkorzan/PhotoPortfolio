@@ -15,6 +15,10 @@ p {
     font-family: 'Sonsie One', cursive;
 }
 
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 
 .vphoto{
     max-width: 100%;
@@ -22,6 +26,7 @@ p {
     object-fit: cover;
     overflow: hidden;
 }
+
 
 
 .navbar{

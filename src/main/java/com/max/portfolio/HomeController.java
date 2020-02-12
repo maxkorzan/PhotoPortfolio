@@ -35,6 +35,21 @@ public class HomeController {
         return "natparks";
     }
 
+    @RequestMapping("/contact")
+    public String contact(){
+        return "contact";
+    }
+
+    @RequestMapping("/about")
+    public String about(){
+        return "about";
+    }
+
+    @RequestMapping("/facebook")
+    public String facebook(){
+        return "facebook";
+    }
+
 
 
 }
